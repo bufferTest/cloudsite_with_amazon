@@ -1,0 +1,2943 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"/>
+        </HTTPHeaders>
+        <RequestId>444e39bc-ed71-4720-a059-11b1d24fdaf5</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJF52UGPDWDQBQ33Q"/>
+            <Argument Name="AssociateTag" Value="telcron04-20"/>
+            <Argument Name="Keywords" Value="iphone"/>
+            <Argument Name="Operation" Value="ItemSearch"/>
+            <Argument Name="ResponseGroup" Value="Images,ItemAttributes,Offers"/>
+            <Argument Name="SearchIndex" Value="All"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Timestamp" Value="2018-04-27T12:36:31.000Z"/>
+            <Argument Name="Signature" Value="hiPQD11JwWCsTRHdT+SJMY2rhhcUPzDqn2WnSY8VnFo="/>
+        </Arguments>
+        <RequestProcessingTime>0.0371362420000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemSearchRequest>
+                <Keywords>iphone</Keywords>
+                <ResponseGroup>Images</ResponseGroup>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <SearchIndex>All</SearchIndex>
+            </ItemSearchRequest>
+        </Request>
+        <TotalResults>611459</TotalResults>
+        <TotalPages>61146</TotalPages>
+        <MoreSearchResultsUrl>
+            https://www.amazon.com/gp/search?linkCode=xm2&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;keywords=iphone&amp;tag=telcron04-20&amp;creative=386001&amp;url=search-alias%3Daws-amazon-aps&amp;camp=2025
+        </MoreSearchResultsUrl>
+        <Item>
+            <ASIN>B00YD545CC</ASIN>
+            <ParentASIN>B0778RTWPB</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/B00YD545CC?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YD545CC
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-Unlocked-Smartphone-Certified-Refurbished/dp/tech-data/B00YD545CC?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00YD545CC&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00YD545CC&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00YD545CC&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B00YD545CC?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B00YD545CC?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B00YD545CC?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">61</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">131</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">408</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41PZS6x4mGL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">27</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">67</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">67</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">98</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">143</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51hmuveZpvL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">447</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">24</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">61</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">61</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">90</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">131</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51pYYzALlXL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">408</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone Accessory</Binding>
+                <Brand>Apple</Brand>
+                <CatalogNumberList>
+                    <CatalogNumberListElement>CE17509C</CatalogNumberListElement>
+                </CatalogNumberList>
+                <Color>Gold</Color>
+                <Department>N/A</Department>
+                <EAN>0712201434712</EAN>
+                <EANList>
+                    <EANListElement>0712201434712</EANListElement>
+                    <EANListElement>0712201431643</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished product is tested and certified to look and work like new, with limited to no wear. The refurbishing process includes functionality testing, inspection, and repackaging. The product is backed by a minimum 90-day warranty, and may arrive in a generic box. The product ships with a charger and cable, but does not include headphone, manual or SIM card.
+                </Feature>
+                <Feature>
+                    Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&amp;T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package).
+                </Feature>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">27</Height>
+                    <Length Units="hundredths-inches">544</Length>
+                    <Weight Units="Hundredths Pounds">28</Weight>
+                    <Width Units="hundredths-inches">264</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>19699</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$196.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>6</Model>
+                <MPN>FBA_MG562LL/A-RB</MPN>
+                <NumberOfItems>1</NumberOfItems>
+                <OperatingSystem>IOS 9</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">173</Height>
+                    <Length Units="hundredths-inches">614</Length>
+                    <Weight Units="Hundredths Pounds">140</Weight>
+                    <Width Units="hundredths-inches">346</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>FBA_MG562LL/A-RB</PartNumber>
+                <ProductGroup>Wireless Device</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone 6 Unlocked Smartphone, 16 GB (Gold) (Certified Refurbished)
+                </Title>
+                <TradeInValue>
+                    <Amount>9505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$95.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>712201431643</UPC>
+                <UPCList>
+                    <UPCListElement>712201431643</UPCListElement>
+                    <UPCListElement>712201434712</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>19498</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$194.98</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>10</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B00YD545CC?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD545CC
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            BffWtFX6Gh9TL5jx3e0HkLVmt7ofrpWlV84mRGjAwFTOSLZcw7S0pIlGjPCaxciJtLVaNUpZ9C2MQCG32lAqFgJ8Y53COQ6ACs7Kq%2FuJot77AvpnEs%2Ff85LdmH%2BHRDGuPHGhWPklYKtbY4%2BmmqrZ3Q%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>19498</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$194.98</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>201</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$2.01</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>1</PercentageSaved>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>futureDate</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B01J8PBEUM</ASIN>
+            <ParentASIN>B077GS9N3Z</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-6S-16GB-Refurbished/dp/B01J8PBEUM?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01J8PBEUM
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-6S-16GB-Refurbished/dp/tech-data/B01J8PBEUM?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B01J8PBEUM&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B01J8PBEUM&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B01J8PBEUM&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B01J8PBEUM?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B01J8PBEUM?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B01J8PBEUM?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41dOTXdU7%2BL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Unlocked Phone</Binding>
+                <Brand>Apple</Brand>
+                <CatalogNumberList>
+                    <CatalogNumberListElement>IPHONE6S-16GB-RO-UNL-B1</CatalogNumberListElement>
+                </CatalogNumberList>
+                <Color>Rose Gold</Color>
+                <EAN>0759776413520</EAN>
+                <EANList>
+                    <EANListElement>0759776413520</EANListElement>
+                    <EANListElement>0759776405129</EANListElement>
+                    <EANListElement>0715785819234</EANListElement>
+                </EANList>
+                <Feature>Unlocked Device</Feature>
+                <Feature>Bluetooth</Feature>
+                <Feature>Certified Refurbished</Feature>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">540</Height>
+                    <Length Units="hundredths-inches">30</Length>
+                    <Weight Units="Hundredths Pounds">92</Weight>
+                    <Width Units="hundredths-inches">260</Width>
+                </ItemDimensions>
+                <Label>Apple_Dealer 8305723305</Label>
+                <ListPrice>
+                    <Amount>21999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$219.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple_Dealer 8305723305</Manufacturer>
+                <Model>6S</Model>
+                <MPN>MKR22LL/A_CR</MPN>
+                <OperatingSystem>IOS 10</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">173</Height>
+                    <Length Units="hundredths-inches">614</Length>
+                    <Weight Units="Hundredths Pounds">60</Weight>
+                    <Width Units="hundredths-inches">343</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>MKR22LL/A_CR</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple_Dealer 8305723305</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple_Dealer 8305723305</Studio>
+                <Title>
+                    Apple iPhone 6S 16GB - GSM Unlocked - Rose Gold (Certified Refurbished)
+                </Title>
+                <TradeInValue>
+                    <Amount>11505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$115.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>759776405129</UPC>
+                <UPCList>
+                    <UPCListElement>759776405129</UPCListElement>
+                    <UPCListElement>759776413520</UPCListElement>
+                    <UPCListElement>715785819234</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>20992</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$209.92</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>12</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B01J8PBEUM?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01J8PBEUM
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            mGVUQKlzhkNz1WufY%2B4w3%2F0Y4FSa0eGaafsZfVpbc%2BtPio36LFoJ0%2ByU9o5k9SOcso1crgRId01Rq8akUaCwY40%2BHlIux34MXZYgeixfSgd5elsq9XlA4vjuSCy3bzsIflkwebwUQ%2BZ8i5n3vwTjWhZC9nIiGLD0
+                        </OfferListingId>
+                        <Price>
+                            <Amount>21999</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$219.99</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B01N9YOF3R</ASIN>
+            <ParentASIN>B0767HH6GP</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B01N9YOF3R?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01N9YOF3R
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/tech-data/B01N9YOF3R?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B01N9YOF3R&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B01N9YOF3R&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B01N9YOF3R&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B01N9YOF3R?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B01N9YOF3R?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B01N9YOF3R?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">37</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">79</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">246</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">25</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">62</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">62</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">92</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">133</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51JSRvYdTBL.jpg
+                        </URL>
+                        <Height Units="pixels">416</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/210LGY8AFBL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/318H40gA7sL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">15</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">37</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">37</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">54</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">79</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517n4nkxasL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">246</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Unlocked Phone</Binding>
+                <Brand>Apple</Brand>
+                <Color>Rose Gold</Color>
+                <EAN>0648044732992</EAN>
+                <EANList>
+                    <EANListElement>0648044732992</EANListElement>
+                    <EANListElement>0648044747101</EANListElement>
+                    <EANListElement>0648044757148</EANListElement>
+                </EANList>
+                <Edition>U.S. Warranty</Edition>
+                <Feature>Unlocked Device</Feature>
+                <Feature>Bluetooth</Feature>
+                <Feature>Certified refurbished</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">264</Height>
+                    <Length Units="hundredths-inches">544</Length>
+                    <Width Units="hundredths-inches">28</Width>
+                </ItemDimensions>
+                <Label>Apple_Dealer 8305723305</Label>
+                <ListPrice>
+                    <Amount>39999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$399.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple_Dealer 8305723305</Manufacturer>
+                <Model>B01N9YOF3R</Model>
+                <MPN>B01N9YOF3R</MPN>
+                <NumberOfItems>4</NumberOfItems>
+                <OperatingSystem>iOS</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">250</Height>
+                    <Length Units="hundredths-inches">700</Length>
+                    <Weight Units="Hundredths Pounds">55</Weight>
+                    <Width Units="hundredths-inches">450</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>B01N9YOF3R</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple_Dealer 8305723305</Publisher>
+                <Size>32 GB</Size>
+                <Studio>Apple_Dealer 8305723305</Studio>
+                <Title>
+                    Apple iPhone 7 - 32GB - GSM Unlocked - Rose Gold (Certified Refurbished)
+                </Title>
+                <UPC>648044747101</UPC>
+                <UPCList>
+                    <UPCListElement>648044747101</UPCListElement>
+                    <UPCListElement>648044757148</UPCListElement>
+                    <UPCListElement>648044732992</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>38299</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$382.99</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>12</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B01N9YOF3R?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N9YOF3R
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            cH5vQSF%2Bw%2BNAxPiRsaQr%2FEMr%2BH9EJ7iVui%2BBiaz0N6SR8baUYg5rT2wdRN4YicBBamZrhTzz9FyMHMiHHtsqtr%2FT9OKUcOZlC9ZlzB1P1N9vNPvLAXEiaRVf8HMGgxzAg7Iu7%2Flrg%2B%2Bd%2BsVsfevs%2FN0Fzwkd7WG7
+                        </OfferListingId>
+                        <Price>
+                            <Amount>38300</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$383.00</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>1699</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$16.99</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>4</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B01GXAT0BK</ASIN>
+            <ParentASIN>B071YSBQMY</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-SE-Unlocked-Certified-Refurbished/dp/B01GXAT0BK?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01GXAT0BK
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-SE-Unlocked-Certified-Refurbished/dp/tech-data/B01GXAT0BK?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B01GXAT0BK&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B01GXAT0BK&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B01GXAT0BK&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B01GXAT0BK?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B01GXAT0BK?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B01GXAT0BK?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">63</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">135</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">423</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">25</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">63</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">63</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">93</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">135</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/413VzFKMpuL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">423</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone Accessory</Binding>
+                <Brand>Apple</Brand>
+                <Color>Space Gray</Color>
+                <EAN>0759776402180</EAN>
+                <EANList>
+                    <EANListElement>0759776402180</EANListElement>
+                    <EANListElement>0642896556447</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box. Accessories may be generic and not directly from the manufacturer.
+                </Feature>
+                <Feature>
+                    Retina display; 4inch (diagonal) LEDbacklit widescreen MultiTouch display
+                </Feature>
+                <Feature>
+                    12megapixel iSight camera with 1.22 pixels; f/2.2 aperture; Hybrid IR filter; Panorama (up to 63 megapixels)
+                </Feature>
+                <Feature>
+                    FaceTime HD Camera: 1.2megapixel photos; f/2.4 aperture; Improved local tone mapping; Retina Flash; Talk time: Up to 14 hours on 3G
+                </Feature>
+                <Feature>
+                    Fingerprint sensor built into the Home button; A9 chip with 64bit architecture; Embedded M9 motion coprocessor
+                </Feature>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">30</Height>
+                    <Length Units="hundredths-inches">487</Length>
+                    <Weight Units="Hundredths Pounds">25</Weight>
+                    <Width Units="hundredths-inches">231</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>15900</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$159.00</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>IPHONE SE</Model>
+                <MPN>A1723</MPN>
+                <OperatingSystem>iOS 9.0</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">130</Height>
+                    <Length Units="hundredths-inches">560</Length>
+                    <Weight Units="Hundredths Pounds">50</Weight>
+                    <Width Units="hundredths-inches">420</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>A1723</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone SE 16 GB Factory Unlocked, Space Gray (Certified Refurbished)
+                </Title>
+                <TradeInValue>
+                    <Amount>11505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$115.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>642896556447</UPC>
+                <UPCList>
+                    <UPCListElement>642896556447</UPCListElement>
+                    <UPCListElement>759776402180</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>14899</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$148.99</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>20</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B01GXAT0BK?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01GXAT0BK
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            iqqAxeCZMSg%2BQ%2FhAYEk47zTszTivSwceOw2uI7%2FWz646BETCaCtMmxPXL5GkgAO6VLhUlAuBink4%2FvfPXLr%2B%2BNEUZ%2F2hOE68A%2BcDb9W70Q3YCsqDw%2FTWoMIW0nIQ0wCexlfJMZwCIRk605qLbW2%2Fo5IN%2FYDfZMQT
+                        </OfferListingId>
+                        <Price>
+                            <Amount>15900</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$159.00</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B00YD54HZ2</ASIN>
+            <ParentASIN>B0721NW7VL</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-Plus-Unlocked-Smartphone/dp/B00YD54HZ2?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YD54HZ2
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-Plus-Unlocked-Smartphone/dp/tech-data/B00YD54HZ2?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00YD54HZ2&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00YD54HZ2&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00YD54HZ2&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B00YD54HZ2?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B00YD54HZ2?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B00YD54HZ2?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">62</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">131</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">410</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">22</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">55</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">55</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">80</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">116</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Hf%2B45cHLL.jpg
+                        </URL>
+                        <Height Units="pixels">488</Height>
+                        <Width Units="pixels">355</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">25</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">62</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">62</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">90</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">131</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51e7jTMBs2L.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">410</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone Accessory</Binding>
+                <Brand>Apple</Brand>
+                <CatalogNumberList>
+                    <CatalogNumberListElement>885909971251</CatalogNumberListElement>
+                </CatalogNumberList>
+                <Color>Silver</Color>
+                <EAN>0643380792914</EAN>
+                <EANList>
+                    <EANListElement>0643380792914</EANListElement>
+                    <EANListElement>0636173543633</EANListElement>
+                    <EANListElement>0712201431742</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box. Accessories may be generic and not directly from the manufacturer.
+                </Feature>
+                <Feature>
+                    Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&amp;T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package).
+                </Feature>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">28</Height>
+                    <Length Units="hundredths-inches">622</Length>
+                    <Weight Units="Hundredths Pounds">38</Weight>
+                    <Width Units="hundredths-inches">306</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>28000</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$280.00</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>6 Plus</Model>
+                <MPN>IP-6P-16-S-KH1_CR</MPN>
+                <OperatingSystem>IOS 9</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">276</Height>
+                    <Length Units="hundredths-inches">776</Length>
+                    <Weight Units="Hundredths Pounds">60</Weight>
+                    <Width Units="hundredths-inches">476</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>IP-6P-16-S-KH1_CR</PartNumber>
+                <ProductGroup>Wireless Device</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone 6 Plus 16GB GSM Unlocked Smartphone - Silver (Certified Refurbished)
+                </Title>
+                <TradeInValue>
+                    <Amount>12505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$125.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>712201431742</UPC>
+                <UPCList>
+                    <UPCListElement>712201431742</UPCListElement>
+                    <UPCListElement>636173543633</UPCListElement>
+                    <UPCListElement>643380792914</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>25499</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$254.99</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>6</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B00YD54HZ2?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD54HZ2
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            iqqAxeCZMSijvizVVaUZ9cg0DAb%2FTnta6ms4MWHRnkod52EJ%2BtdVt%2BOH5G619qdCkEl51%2F3hXm6UZGnJm32HwP2RB7hs%2Bymv%2B8Owl9fM5rLkqyUyEpzpq8ZU%2FaU57nwn2ZJy%2BcuHd2KT%2BjNDE0Hyvg%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>28400</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$284.00</FormattedPrice>
+                        </Price>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>futureDate</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B075QN8NDH</ASIN>
+            <ParentASIN>B075R58Q8S</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-Fully-Unlocked-5-8/dp/B075QN8NDH?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B075QN8NDH
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-Fully-Unlocked-5-8/dp/tech-data/B075QN8NDH?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B075QN8NDH&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B075QN8NDH&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B075QN8NDH&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B075QN8NDH?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B075QN8NDH?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B075QN8NDH?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">40</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">86</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">268</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">16</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">40</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">40</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">59</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">86</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41WzAKf5CSL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">268</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Unlocked Phone</Binding>
+                <Brand>Apple</Brand>
+                <Color>Silver</Color>
+                <Edition>U.S. Warranty</Edition>
+                <Feature>
+                    An all‑new 5.8‑inch Super Retina screen with all-screen OLED Multi-Touch display
+                </Feature>
+                <Feature>
+                    12MP wide-angle and telephoto cameras with Dual optical image stabilization
+                </Feature>
+                <Feature>Wireless Qi charging</Feature>
+                <Feature>Splash, water, and dust resistant</Feature>
+                <Feature>Sapphire crystal lens cover</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">279</Height>
+                    <Length Units="hundredths-inches">565</Length>
+                    <Weight Units="Hundredths Pounds">35</Weight>
+                    <Width Units="hundredths-inches">30</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>129999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$1,299.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>A1865-64-Silver</Model>
+                <MPN>A1865-64-Silver</MPN>
+                <NumberOfItems>1</NumberOfItems>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">232</Height>
+                    <Length Units="hundredths-inches">768</Length>
+                    <Weight Units="Hundredths Pounds">111</Weight>
+                    <Width Units="hundredths-inches">433</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>A1865-64-Silver</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>64 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone X, Fully Unlocked 5.8", 64 GB - Silver
+                </Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>113888</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$1,138.88</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>99999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$999.99</FormattedPrice>
+                </LowestUsedPrice>
+                <LowestRefurbishedPrice>
+                    <Amount>149977</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$1,499.77</FormattedPrice>
+                </LowestRefurbishedPrice>
+                <TotalNew>18</TotalNew>
+                <TotalUsed>6</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>1</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B075QN8NDH?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B075QN8NDH
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            tIj9aVWbILogvg%2BpifEFo0mXT%2Bl5gzEyos%2FHSbIVSAWc%2BHE7%2BOBG45%2Fy7k1dwr6L59BAqeLts9a5lMT4v7IbnCWqvy4xdPfW1bGZhDPuQ7bNjCk9zxTR%2B6YlX8GamBAZ2lgxFOQZHlv%2Bk2tABEyxPQ%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>113998</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$1,139.98</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>16001</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$160.01</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>12</PercentageSaved>
+                        <Availability>Usually ships in 1-2 business days</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>24</MinimumHours>
+                            <MaximumHours>48</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>0</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B01N3SX1ER</ASIN>
+            <ParentASIN>B07CLJC5M9</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/B01N3SX1ER?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01N3SX1ER
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-16GB-Certified-Refurbished/dp/tech-data/B01N3SX1ER?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B01N3SX1ER&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B01N3SX1ER&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B01N3SX1ER&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B01N3SX1ER?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B01N3SX1ER?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B01N3SX1ER?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">30</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">64</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">199</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">15</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">38</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">38</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">56</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">82</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51AzwkznCDL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">255</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41O9%2B1wa0lL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">2</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">4</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">4</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">6</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">9</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/21944fFJ5uL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">27</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">6</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">14</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">14</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">20</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41VWR1m5%2B5L.jpg
+                        </URL>
+                        <Height Units="pixels">93</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">12</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">30</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">30</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">44</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">64</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41X%2BNNLtStL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">199</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone</Binding>
+                <Brand>Apple</Brand>
+                <Color>Gold</Color>
+                <EAN>0702921208434</EAN>
+                <EANList>
+                    <EANListElement>0702921208434</EANListElement>
+                    <EANListElement>0651307882976</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, a minimum 90-day warranty, and may arrive in a generic box. Only select sellers who maintain a high performance bar may offer Certified Refurbished products on Amazon.com
+                </Feature>
+                <Feature>
+                    This phone is locked to AT&amp;T and cannot be unlocked for use on any other carrier. This phone may originate from an international partner of AT&amp;T
+                </Feature>
+                <Feature>
+                    4.7-inch LED-backlit IPS LCD Multi-Touchscreen Shatter proof Glass, Oleophobic Coating iOS 8 (upgradable) 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus, dual-LED (dual tone) Flash + Front-Facing 1.2 Megapixel Camera, 720p, burst, HDR
+                </Feature>
+                <Feature>
+                    Dual-Core 1.4 GHz Cyclone (ARM v8-based) Processor, Chipset: Apple A8, PowerVR GX6650 (hexa-core graphics) Graphics
+                </Feature>
+                <Feature>
+                    Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi hotspot, Bluetooth: v4.0, A2DP, USB: v2.0, GPS: with A-GPS, GLONASS
+                </Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">260</Height>
+                    <Length Units="hundredths-inches">540</Length>
+                    <Weight Units="Hundredths Pounds">2</Weight>
+                    <Width Units="hundredths-inches">27</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>17399</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$173.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>iPhone 6 16GB G ATT</Model>
+                <MPN>6 16GB AT&amp;T Gold</MPN>
+                <OperatingSystem>google_android</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">181</Height>
+                    <Length Units="hundredths-inches">618</Length>
+                    <Weight Units="Hundredths Pounds">70</Weight>
+                    <Width Units="hundredths-inches">331</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>6 16GB AT&amp;T Gold</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone 6, AT&amp;T, 16GB - Gold (Certified Refurbished)
+                </Title>
+                <UPC>651307882976</UPC>
+                <UPCList>
+                    <UPCListElement>651307882976</UPCListElement>
+                    <UPCListElement>702921208434</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>16900</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$169.00</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>7</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B01N3SX1ER?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01N3SX1ER
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            iqqAxeCZMSg%2BQ%2FhAYEk478abpvPC%2BtKXGBj%2Be9CGcCTYSUph132K2nHoGb%2Fmf4XseulIZenpgG0O7d4kJ%2BZeClUFX%2BL7cpY%2FGnC6SDI5FvcbFIH0nqXlFYo8zAn%2FVO%2FiUtd5xeWpn64OuCCLEzDeMg%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>17399</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$173.99</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B00NQGP3SO</ASIN>
+            <ParentASIN>B01M7S7GDU</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-Unlocked-16GB-Gold/dp/B00NQGP3SO?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00NQGP3SO
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-Unlocked-16GB-Gold/dp/tech-data/B00NQGP3SO?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00NQGP3SO&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00NQGP3SO&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00NQGP3SO&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B00NQGP3SO?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B00NQGP3SO?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B00NQGP3SO?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00NQGP3SO
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">29</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">63</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">196</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">15</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">37</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">37</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">54</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">78</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31nD8JyMnRL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">245</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">12</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">29</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">29</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">43</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">63</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41f1XVdCIoL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">196</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone</Binding>
+                <Brand>Apple</Brand>
+                <CatalogNumberList>
+                    <CatalogNumberListElement>738613267465</CatalogNumberListElement>
+                </CatalogNumberList>
+                <Color>Gold</Color>
+                <Department>apple</Department>
+                <EAN>0885909950942</EAN>
+                <EANList>
+                    <EANListElement>0885909950942</EANListElement>
+                    <EANListElement>0654391805371</EANListElement>
+                    <EANListElement>5060406985672</EANListElement>
+                    <EANListElement>0700362680383</EANListElement>
+                    <EANListElement>5269692866706</EANListElement>
+                    <EANListElement>0738613267465</EANListElement>
+                    <EANListElement>0061252410801</EANListElement>
+                    <EANListElement>4547597887332</EANListElement>
+                </EANList>
+                <Feature>Non-removable Li-Po 1810 mAh battery (6.9 Wh)</Feature>
+                <HazardousMaterialType>Unknown</HazardousMaterialType>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">264</Height>
+                    <Length Units="hundredths-inches">544</Length>
+                    <Weight Units="Hundredths Pounds">28</Weight>
+                    <Width Units="hundredths-inches">27</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <LegalDisclaimer>
+                    ONCE YOU PURCHASE YOU AGREE YOU HAVE READ AND STILL PROVIDED INTEREST IN OUR ITEM. !
+                </LegalDisclaimer>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>6</Model>
+                <MPN>IPH616GB</MPN>
+                <NumberOfItems>1</NumberOfItems>
+                <OperatingSystem>IOS 9</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">181</Height>
+                    <Length Units="hundredths-inches">618</Length>
+                    <Weight Units="Hundredths Pounds">85</Weight>
+                    <Width Units="hundredths-inches">350</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>IPH616GB</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>Apple iPhone 6 (GSM Unlocked), 16GB, Gold</Title>
+                <TradeInValue>
+                    <Amount>9505</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$95.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>738613267465</UPC>
+                <UPCList>
+                    <UPCListElement>738613267465</UPCListElement>
+                    <UPCListElement>885909950942</UPCListElement>
+                    <UPCListElement>654391805371</UPCListElement>
+                    <UPCListElement>061252410801</UPCListElement>
+                    <UPCListElement>700362680383</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestUsedPrice>
+                    <Amount>14995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$149.95</FormattedPrice>
+                </LowestUsedPrice>
+                <LowestRefurbishedPrice>
+                    <Amount>18999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$189.99</FormattedPrice>
+                </LowestRefurbishedPrice>
+                <TotalNew>0</TotalNew>
+                <TotalUsed>26</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>5</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>0</TotalOffers>
+                <TotalOfferPages>0</TotalOfferPages>
+                <MoreOffersUrl>0</MoreOffersUrl>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B00YD53YQU</ASIN>
+            <ParentASIN>B01CARLRN4</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/B00YD53YQU?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YD53YQU
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-Unlocked-Certified-Refurbished/dp/tech-data/B00YD53YQU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00YD53YQU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00YD53YQU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00YD53YQU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B00YD53YQU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B00YD53YQU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B00YD53YQU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">27</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">57</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">177</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">11</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">27</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">27</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">39</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">57</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41Uil%2BscBvL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">177</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">22</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">55</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">55</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">80</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">116</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41-WeMC8DFL.jpg
+                        </URL>
+                        <Height Units="pixels">364</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">14</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">36</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">36</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">52</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">76</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/517k18G%2BcnL.jpg
+                        </URL>
+                        <Height Units="pixels">237</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">14</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">36</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">36</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">52</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">76</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">238</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">14</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">36</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">36</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">52</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">76</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/31ygKbef6rL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">238</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">11</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">27</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">27</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">39</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">57</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/41QAk82GMNL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">177</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Electronics</Binding>
+                <Brand>Apple</Brand>
+                <CatalogNumberList>
+                    <CatalogNumberListElement>885909727360</CatalogNumberListElement>
+                </CatalogNumberList>
+                <Color>Silver</Color>
+                <EAN>0646117873498</EAN>
+                <EANList>
+                    <EANListElement>0646117873498</EANListElement>
+                    <EANListElement>0712201431599</EANListElement>
+                    <EANListElement>0643380792785</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished product has been tested and certified to work and look like new, with minimal to no signs of wear, by a specialized third-party seller approved by Amazon. The product is backed by a minimum 90-day warranty, and may arrive in a generic brown or white box. Accessories may be generic and not directly from the manufacturer.
+                </Feature>
+                <Feature>
+                    Factory unlocked iPhones are GSM models and are ONLY compatible with GSM carriers like AT&amp;T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint, Verizon and the likes. The phone requires a nano SIM card (not included in the package).
+                </Feature>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">220</Height>
+                    <Length Units="hundredths-inches">500</Length>
+                    <Weight Units="Hundredths Pounds">25</Weight>
+                    <Width Units="hundredths-inches">50</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>13789</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$137.89</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>ME325LL/A-RB</Model>
+                <MPN>ME325LL/A-RB</MPN>
+                <OperatingSystem>iOS</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">240</Height>
+                    <Length Units="hundredths-inches">551</Length>
+                    <Weight Units="Hundredths Pounds">60</Weight>
+                    <Width Units="hundredths-inches">299</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>ME325LL/A-RB</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>16 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone 5S 16GB GSM Unlocked, Silver (Certified Refurbished)
+                </Title>
+                <TradeInValue>
+                    <Amount>5005</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$50.05</FormattedPrice>
+                </TradeInValue>
+                <UPC>646117873498</UPC>
+                <UPCList>
+                    <UPCListElement>646117873498</UPCListElement>
+                    <UPCListElement>712201431599</UPCListElement>
+                    <UPCListElement>643380792785</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>13789</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$137.89</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>10</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B00YD53YQU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B00YD53YQU
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            iqqAxeCZMSijvizVVaUZ9Vs9JQXIsrfIgnBxKHCpQLAl9%2B4Uy2%2FYzdGqYyUhPGYEBTrSUTx7t8OoKX%2BTgxrnA2EzByIDY02HaM3yJ%2FmJuYQWmlUOgef6y%2FisZyybUe0VGqXbOb59yd%2BX8VsWBB1WZOjV6ya16c6E
+                        </OfferListingId>
+                        <Price>
+                            <Amount>13789</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$137.89</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B014Z8HDWU</ASIN>
+            <ParentASIN>B0767KB1CL</ParentASIN>
+            <DetailPageURL>
+                https://www.amazon.com/Apple-iPhone-GSM-Unlocked-Refurbished/dp/B014Z8HDWU?psc=1&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B014Z8HDWU
+            </DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Apple-iPhone-GSM-Unlocked-Refurbished/dp/tech-data/B014Z8HDWU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B014Z8HDWU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B014Z8HDWU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>
+                        https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B014Z8HDWU&amp;SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>
+                        https://www.amazon.com/gp/pdp/taf/B014Z8HDWU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>
+                        https://www.amazon.com/review/product/B014Z8HDWU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>
+                        https://www.amazon.com/gp/offer-listing/B014Z8HDWU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                    </URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL75_.jpg
+                </URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL160_.jpg
+                </URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>
+                    https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL.jpg
+                </URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL30_.jpg
+                        </URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL75_.jpg
+                        </URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL110_.jpg
+                        </URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL._SL160_.jpg
+                        </URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>
+                            https://images-na.ssl-images-amazon.com/images/I/51IAFphKHiL.jpg
+                        </URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Wireless Phone Accessory</Binding>
+                <Brand>Apple</Brand>
+                <Color>Space Gray</Color>
+                <EAN>0766970281732</EAN>
+                <EANList>
+                    <EANListElement>0766970281732</EANListElement>
+                </EANList>
+                <Feature>
+                    This Certified Refurbished - Good Condition product has gone through an 18 point inspection process. It will have small scratches on the casing but the screen will be in good condition. It has passed the same functionality testing and is backed by the same 90-day warranty as all Certified Refurbished products on Amazon. The product ships with the battery, USB Cable and a charger and will arrive in a generic box.
+                </Feature>
+                <Feature>
+                    4.7-inch LED-backlit IPS LCD Capacitive Touchscreen, 750 x 1334 pixel resolution with Ion-strengthened Glass, Oleophobic Coating
+                </Feature>
+                <Feature>
+                    iOS, Chipset: Apple A8, Processor: Dual-Core 1.4 GHz Typhoon (ARM v8-based), GPU: PowerVR GX6450 (Quad-Core Graphics)
+                </Feature>
+                <Feature>
+                    8 Megapixel Camera with f/2.2, 29mm, phase detection autofocus, dual-LED (dual tone) flash, 1/3" sensor size, 1.5 m pixel size + 1.2 Megapixel Front Camera with f/2.2, 31mm, 720p@30fps
+                </Feature>
+                <Feature>Internal Memory: 64GB</Feature>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">27</Height>
+                    <Length Units="hundredths-inches">544</Length>
+                    <Weight Units="Hundredths Pounds">28</Weight>
+                    <Width Units="hundredths-inches">264</Width>
+                </ItemDimensions>
+                <Label>Apple Computer</Label>
+                <ListPrice>
+                    <Amount>18998</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$189.98</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apple Computer</Manufacturer>
+                <Model>6 64gb</Model>
+                <MPN>6 64GB</MPN>
+                <OperatingSystem>iOS</OperatingSystem>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">250</Height>
+                    <Length Units="hundredths-inches">790</Length>
+                    <Weight Units="Hundredths Pounds">55</Weight>
+                    <Width Units="hundredths-inches">450</Width>
+                </PackageDimensions>
+                <PackageQuantity>1</PackageQuantity>
+                <PartNumber>6 64GB</PartNumber>
+                <ProductGroup>Wireless</ProductGroup>
+                <ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+                <Publisher>Apple Computer</Publisher>
+                <Size>64 GB</Size>
+                <Studio>Apple Computer</Studio>
+                <Title>
+                    Apple iPhone 6 GSM Unlocked, 64 GB - Space Gray (Certified Refurbished)
+                </Title>
+                <UPC>766970281732</UPC>
+                <UPCList>
+                    <UPCListElement>766970281732</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>18998</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$189.98</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>6</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    https://www.amazon.com/gp/offer-listing/B014Z8HDWU?SubscriptionId=AKIAJF52UGPDWDQBQ33Q&amp;tag=telcron04-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B014Z8HDWU
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            somu73e6faWE3EVsW5ozRubsLOiCHGHvrqmFy5mheNj8knxcFdnZzA69186Jxvy1dtTHBtidlmm1YVGPUf5s80U0GkSHWMTCOOxeQZ%2BhvarwS9jafOacbQtbUMDyF%2BfXYrA3%2F1HrDujevRDHG47noA%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>18998</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$189.98</FormattedPrice>
+                        </Price>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>futureDate</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+    </Items>
+</ItemSearchResponse>
